@@ -1,8 +1,9 @@
 # iodparts Assesment
 
+# Responsive
+
 Two more products have been added to the shopping basket. 
 We have the option of increasing or decreasing the quantity. 
 We can buy it once we've decided. When we click the purchase button, we are taken to the shipping address page, 
 where we can enter our address and then select our credit card information for payment.
 It was created with HTML, CSS, Bootstrap, and Javascript.
-# Responsive
