@@ -1,0 +1,92 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Mochiy+Pop+One&family=Mulish:wght@300&family=Prompt&family=Ubuntu:wght@300;400;500&display=swap');
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Mulish', sans-serif;
+}
+
+h2{
+    font-size: 1.5rem;
+}
+
+.card{
+    border: none;
+}
+
+
+.product-name{
+    color: rgb(0, 0, 0);
+    font-size: 1.4rem;
+    text-transform: capitalize;
+    font-weight: 500;
+}
+
+.cart-title p {
+    font-size: 0.9rem;
+    font-weight: 500;
+}
+
+.page-link{
+    height: 30px;
+}
+
+.price-in p{
+font-size: 1rem;
+}
+
+.remove-wish{
+    font-size: 0.8rem;
+    margin-bottom: 0;
+}
+
+.price-money h3{
+font-size: 1rem;
+font-weight:600 ;
+}
+
+span{
+font-weight: 600;
+}
+
+.page-link {
+    width: 45px;
+    font-size: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.page-item input{
+
+    padding: 6px;
+    font-size: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.price-indiv p{
+font-size: 1.1rem;
+}
+
+.fa-heart{
+margin-right: 1px;
+margin-left: 1px;
+cursor: pointer;
+}
+.fa-heart:hover{
+color: red;
+}
+
+
+/* -----------------------Shipping address page CSS------------------- */
+
+
+.success{
+    font-size: 2rem;
+}

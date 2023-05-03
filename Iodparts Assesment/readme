@@ -1,0 +1,54 @@
+<!--
+ Instructions
+1. Prepare 3 files - index.html, style.css and script.js to write your HTML, CSS and
+JavaScript respectively.
+2. You can include any of these 3 libraries for your assignment - Bootstrap, jQuery or
+VueJS.
+3. Use of these libraries is optional.
+4. Use of AngularJS or ReactJS is prohibited.
+5. When using these or other libraries, include them using CDN.
+6. Write your own stylesheet. Do not copy paste from 3rd party code.
+
+
+Assignment
+
+Prepare a single-page Shopping Cart workflow as given below.
+Page Loading
+1. On loading of page, show two products added to cart:
+a. BBC micro:bit (Quantity 1, Price 1500)
+b. Arduino Uno R3 (Quantity 1, Price 600)
+2. Include appropriate images for these products from internet.
+3. (Optional) User should have an option to update quantity of the added products.
+4. (Optional) User should have an option to delete any of these products.
+
+
+Shipping Address
+5. After proceeding, user should be able to select one of the 3 existing shipping addresses.
+6. (Optional) User should have a check box to select “Billing address same as shipping address”
+7. (Optional) User should be able to add new shipping address.
+8. (Optional) User should be able to edit an existing address.
+
+
+Billing Address (Optional)
+9. (Optional) On proceeding, user should be able to select one of the 3 existing billing
+addresses.
+
+Credit Card
+10. On proceeding, user will be asked to enter credit card details. Confirmation
+11. On submitting the credit card, the message should be shown that “Thank you for your
+order” with relevant additional details.
+
+
+Scoring
+The scoring is based on below points
+1. Aesthetics of the web page UI
+2. Intuitiveness and ease of use
+3. Simplicity and elegance
+4. Requirement coverage of the above specifications
+Timeline
+Last date of submission: 25th April 2023
+Format of submission:
+● Submit a zip file containing 3 files - index.html, style.css and script.js
+● Put these in google drive as a ZIP file and share the link with access to
+anand@iodparts.com, Folder name should be “the Name of candidate
+-->
